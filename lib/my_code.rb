@@ -8,4 +8,3 @@ def map(array)
   end
   return_array
 end
-
